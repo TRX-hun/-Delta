@@ -12,7 +12,7 @@ local PlayerMouse = Player:GetMouse()
 local redzlib = {
 	Themes = {
 		Darker = {
-			["TRX  للمعلوميه صانع السكربت مو احمد صانع السكربت حاتم Hub 1"] = ColorSequence.new({
+			["TRX Hub 1"] = ColorSequence.new({
 				ColorSequenceKeypoint.new(0.00, Color3.fromRGB(5, 15, 5)),
 				ColorSequenceKeypoint.new(0.50, Color3.fromRGB(12, 28, 12)),
 				ColorSequenceKeypoint.new(1.00, Color3.fromRGB(5, 15, 5))
